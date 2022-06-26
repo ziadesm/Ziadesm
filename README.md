@@ -4,6 +4,8 @@
  <p align="center"> >Difficult roads often lead to beautiful destinations<</p>
  
  ![](https://komarev.com/ghpvc/?username=ziadesm&label=PROFILE+VIEWS)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadesm&repo=RequestPermission)](https://github.com/ziadesm/RequestPermission)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziadesm)
 
