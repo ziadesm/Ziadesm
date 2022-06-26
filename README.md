@@ -5,7 +5,7 @@
  
  ![](https://komarev.com/ghpvc/?username=ziadesm&label=PROFILE+VIEWS)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ziadesm)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziadesm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadesm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
