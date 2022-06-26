@@ -13,7 +13,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=dark)
 
 <!--
 **ziadesm/Ziadesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
