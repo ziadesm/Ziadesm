@@ -7,8 +7,6 @@
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadesm&repo=RequestPermission)](https://github.com/ziadesm/RequestPermission)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziadesm)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadesm&layout=compact)
 
 
