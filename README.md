@@ -10,26 +10,19 @@
 </picture>
  
  ![](https://komarev.com/ghpvc/?username=ziadesm&label=PROFILE+VIEWS)
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=dark)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadesm&repo=RequestPermission)](https://github.com/ziadesm/RequestPermission)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadesm&layout=compact)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=dark)
 
 <!--
 **ziadesm/Ziadesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Sehhaty Application in KSA.
+- 🌱 I’m currently learning Compose Multi-Platform.
+- 👯 I’m looking to collaborate on Creating new Hijri Picker.
+- 💬 Ask me about Anything, We all here for help.
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Earth is spinning right now :D
 -->
