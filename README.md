@@ -10,7 +10,7 @@
 </picture>
  
  ![](https://komarev.com/ghpvc/?username=ziadesm&label=PROFILE+VIEWS)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=dark)
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadesm&show_icons=true&theme=dark) -->
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadesm&repo=RequestPermission)](https://github.com/ziadesm/RequestPermission)
 
 <!--
